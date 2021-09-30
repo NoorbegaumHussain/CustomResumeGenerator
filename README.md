@@ -19,7 +19,7 @@ Generating your resume is no more a hell job. With this Resume builder you have 
 3.Start the Apache and Mysql in your XAMPP control panel
 4.Open your web browser and type ‘localhost/phpmyadmin’
 5.In  phpmyadmin page,create a new database from the left panel and name it as ‘resumebuilder’  and Tablename as ‘register’
-6.Import the file ‘resumebuilder.sql’ inside your newly created database and click ok.
+6.Import the file ‘mydb.sql’ inside your newly created database and click ok.
 7.Open a new tab and type ‘localhost/foldername’in the url of your browser
 8.Hurry!That’s it!
 
